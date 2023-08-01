@@ -22,4 +22,4 @@ const Filter = ({ filteredData, deleteItem }) => {
         </div>
     )
 }
-export default Filter; 
+export default Filter;

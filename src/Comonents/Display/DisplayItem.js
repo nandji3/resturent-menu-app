@@ -1,7 +1,8 @@
 import React from "react";
-import Table1 from "../../Table/Table1";
-import Table2 from "../../Table/Table2";
-import Table3 from "../../Table/Table3";
+import Table1 from "../Table/Table1";
+import Table2 from "../Table/Table2";
+import Table3 from "../Table/Table3";
+
 
 const DisplayItem = ({ formData, editItem, deleteItem }) => {
 
@@ -14,3 +15,4 @@ const DisplayItem = ({ formData, editItem, deleteItem }) => {
     )
 }
 export default DisplayItem;
+

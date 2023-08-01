@@ -1,5 +1,6 @@
 import React from "react";
-import Filter from "../Comonents/Filter/Filter";
+import Filter from "../Filter/Filter";
+
 
 
 const Table1 = ({ formData, deleteItem }) => {
